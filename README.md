@@ -15,9 +15,7 @@ Version Control: GitHub
 Bot Service: Azure Health Bot
 
 
-![Screenshot 2024-06-09 002557](https://github.com/Nithin-2413/frt1/assets/135258263/12c66470-697b-42e9-bf7e-6cce6abd6ce2)
-![Screenshot 2024-06-09 002702](https://github.com/Nithin-2413/frt1/assets/135258263/503e495b-109f-4d19-95f5-b61b42a8830e)
-![Screenshot 2024-06-09 002718](https://github.com/Nithin-2413/frt1/assets/135258263/fc9e897b-71de-4708-a6d9-d963a56cfd21)
+
 ![Screenshot 2024-06-09 002351](https://github.com/Nithin-2413/frt1/assets/135258263/c87920f7-2f64-4118-a440-6be286e397a4)
 ![Screenshot 2024-06-09 002359](https://github.com/Nithin-2413/frt1/assets/135258263/2afbbfa9-3526-4e1a-b87a-4126042903b3)
 ![Screenshot 2024-06-09 002412](https://github.com/Nithin-2413/frt1/assets/135258263/de1b8e59-effe-4a09-ab3d-d16d3c03a38f)
@@ -28,9 +26,15 @@ Bot Service: Azure Health Bot
 ![Screenshot 2024-06-09 002508](https://github.com/Nithin-2413/frt1/assets/135258263/b579247e-5c98-44a6-bb73-b7f4edc9a0df)
 ![Screenshot 2024-06-09 002525](https://github.com/Nithin-2413/frt1/assets/135258263/17ab5975-db9a-48b7-9e8c-8044b7f4ad95)
 ![Screenshot 2024-06-09 002540](https://github.com/Nithin-2413/frt1/assets/135258263/c62e385a-88f0-466e-9886-c2126f28b3a1)
+![Screenshot 2024-06-09 002557](https://github.com/Nithin-2413/frt1/assets/135258263/12c66470-697b-42e9-bf7e-6cce6abd6ce2)
+![Screenshot 2024-06-09 002702](https://github.com/Nithin-2413/frt1/assets/135258263/503e495b-109f-4d19-95f5-b61b42a8830e)
+![Screenshot 2024-06-09 002718](https://github.com/Nithin-2413/frt1/assets/135258263/fc9e897b-71de-4708-a6d9-d963a56cfd21)
+
 
 
 i have utilized many azure services in the project like
+
+
 
 ![HEALTH BOT](https://github.com/Nithin-2413/frt1/assets/135258263/4f374a21-3720-4496-902a-37e5b340c679)
 ![VISUAL STUDIO CODE](https://github.com/Nithin-2413/frt1/assets/135258263/6c48f920-5dec-4fd9-9a80-5e84340ccc2e)
