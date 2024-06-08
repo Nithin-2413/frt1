@@ -19,8 +19,14 @@ Bot Service: Azure Health Bot
 ![Screenshot 2024-06-09 002351](https://github.com/Nithin-2413/frt1/assets/135258263/c87920f7-2f64-4118-a440-6be286e397a4)
 ![Screenshot 2024-06-09 002359](https://github.com/Nithin-2413/frt1/assets/135258263/2afbbfa9-3526-4e1a-b87a-4126042903b3)
 ![Screenshot 2024-06-09 002412](https://github.com/Nithin-2413/frt1/assets/135258263/de1b8e59-effe-4a09-ab3d-d16d3c03a38f)
+
+click on the button on the bottom right to open the healthbot
+
 ![Screenshot 2024-06-09 002421](https://github.com/Nithin-2413/frt1/assets/135258263/98b6cb22-71a9-41f4-9c27-30efb9bc1f26)
 ![Screenshot 2024-06-09 002429](https://github.com/Nithin-2413/frt1/assets/135258263/73368c37-193b-4941-ac3b-5c69f3902ba0)
+
+choose appopriate options which describe your comdition
+
 ![Screenshot 2024-06-09 002449](https://github.com/Nithin-2413/frt1/assets/135258263/e31173c4-35d1-4bd4-9162-0376bfe9b645)
 ![Screenshot 2024-06-09 002457](https://github.com/Nithin-2413/frt1/assets/135258263/a0d57c77-1b68-421a-bc6f-debec7b65143)
 ![Screenshot 2024-06-09 002508](https://github.com/Nithin-2413/frt1/assets/135258263/b579247e-5c98-44a6-bb73-b7f4edc9a0df)
