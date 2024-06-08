@@ -1,6 +1,6 @@
 Welcome to the Health Website, a comprehensive online platform designed to provide users with easy access to health information and assistance.
 
-This website is hosted on Azure Static Web Apps and is integrated with GitHub for seamless deployment and updates.
+This website is hosted on Azure Static Web Apps , blob and is integrated with GitHub for seamless deployment and updates.
 
 core services I have used : Visual Studio Code, Azure static web app, Azure Blob Storage
 
