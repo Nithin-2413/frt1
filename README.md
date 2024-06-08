@@ -24,12 +24,11 @@ click on the button on the bottom right to open the healthbot
 
 ![Screenshot 2024-06-09 002421](https://github.com/Nithin-2413/frt1/assets/135258263/98b6cb22-71a9-41f4-9c27-30efb9bc1f26)
 ![Screenshot 2024-06-09 002429](https://github.com/Nithin-2413/frt1/assets/135258263/73368c37-193b-4941-ac3b-5c69f3902ba0)
-
-choose appopriate options which describe your comdition
-
 ![Screenshot 2024-06-09 002449](https://github.com/Nithin-2413/frt1/assets/135258263/e31173c4-35d1-4bd4-9162-0376bfe9b645)
 ![Screenshot 2024-06-09 002457](https://github.com/Nithin-2413/frt1/assets/135258263/a0d57c77-1b68-421a-bc6f-debec7b65143)
 ![Screenshot 2024-06-09 002508](https://github.com/Nithin-2413/frt1/assets/135258263/b579247e-5c98-44a6-bb73-b7f4edc9a0df)
+choose appopriate options which describe your condition
+
 ![Screenshot 2024-06-09 002525](https://github.com/Nithin-2413/frt1/assets/135258263/17ab5975-db9a-48b7-9e8c-8044b7f4ad95)
 ![Screenshot 2024-06-09 002540](https://github.com/Nithin-2413/frt1/assets/135258263/c62e385a-88f0-466e-9886-c2126f28b3a1)
 ![Screenshot 2024-06-09 002557](https://github.com/Nithin-2413/frt1/assets/135258263/12c66470-697b-42e9-bf7e-6cce6abd6ce2)
