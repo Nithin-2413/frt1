@@ -8,7 +8,7 @@ AI services I have used : Azure health bot
 
 Features Azure Health Bot Integration: Our website utilizes the Azure Health Bot to help users resolve their health-related queries efficiently. The bot provides accurate and up-to-date information on a wide range of health topics. User-Friendly Interface: Designed with the user in mind, our website offers a clean and intuitive interface to enhance the user experience. Responsive Design: Accessible from any device, our website ensures that users can get the information they need, whether they are on a computer, tablet, or smartphone.
 
-Hosting: Azure Static Web Apps --- https://witty-bay-0b5875810.5.azurestaticapps.net/
+Hosting: Azure Static Web Apps --- [https://witty-bay-0b5875810.5.azurestaticapps.net/](https://ambitious-sky-08f5aaf1e.5.azurestaticapps.net)
 
 Version Control: GitHub
 
