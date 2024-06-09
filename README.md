@@ -39,8 +39,7 @@ choose appopriate options which describe your condition
 
 i have utilized many azure services in the project like
 
-
-
+![created a bot using Azure Health Bot Service](https://github.com/Nithin-2413/frt1/assets/135258263/9f084147-3501-4c34-b038-2586af9efae6)
 ![HEALTH BOT](https://github.com/Nithin-2413/frt1/assets/135258263/4f374a21-3720-4496-902a-37e5b340c679)
 ![VISUAL STUDIO CODE](https://github.com/Nithin-2413/frt1/assets/135258263/6c48f920-5dec-4fd9-9a80-5e84340ccc2e)
 ![USED CSS THROUGH THE BLOB STORAGE](https://github.com/Nithin-2413/frt1/assets/135258263/1193fb91-61d3-4be6-9368-1813ee5dd7cf)
