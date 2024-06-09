@@ -1,7 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-size: 1.1rem;
-    /* Increase font size */
 }
 
 .navbar {
@@ -12,13 +11,10 @@ nav ul li a {
     /* Adjust padding as needed */
     text-decoration: none;
     transition: background-color 0.3s ease;
-    /* Add smooth transition for hover effect */
 }
 
-/* Add soft cornered square effect on hover */
 nav ul li a:hover {
     border-radius: 10px;
-    /* Adjust the border radius for soft corners */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     /* Add shadow effect */
 }
@@ -140,7 +136,6 @@ nav ul li a:hover {
     background-color: #b8b8ff;
 }
 
-/* Custom Modal Styles */
 #healthBotModal .modal-dialog {
     position: fixed;
     bottom: 20px;
@@ -149,7 +144,6 @@ nav ul li a:hover {
     width: 100%;
     max-width: 400px;
     max-height: 600px;
-    /* Increased the max-height for taller modal */
 }
 
 #healthBotModal .modal-content {
@@ -200,29 +194,24 @@ nav ul li a:hover {
      font-size: 2rem;
      color: #007bff;
      opacity: 0.5;
-     /* Reduce opacity to make arrows subtle */
  }
 
  .carousel-control-prev:hover,
  .carousel-control-next:hover {
      opacity: 1;
-     /* Increase opacity on hover */
  }
 
  .carousel-control-prev-icon,
  .carousel-control-next-icon {
      background-image: none;
-     /* Remove default arrow icons */
  }
 
  .carousel-control-prev:before {
      content: '<';
-     /* Add custom content for previous arrow */
  }
 
  .carousel-control-next:before {
      content: '>';
-     /* Add custom content for next arrow */
  }
  .navbar-brand {
      display: flex;
@@ -231,20 +220,14 @@ nav ul li a:hover {
 
  .company-icon img {
      width: 40px;
-     /* Adjust the size of the icon as needed */
      height: auto;
      margin-right: 10px;
-     /* Add space between the icon and the company name */
  }
 
  .company-name {
      font-size: 24px;
-     /* Adjust the font size for the company name */
      font-weight: bold;
-     /* Make the company name bold */
      color: ffddd2;
-     /* Choose a powerful and bright color */
-     /* Add additional styles as needed */
  }
 
  /* Add additional styles for the navbar and navbar items */
