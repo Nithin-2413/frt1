@@ -1,0 +1,250 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+    /* Increase font size */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+nav ul li a {
+    padding: 10px 20px;
+    /* Adjust padding as needed */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    /* Add smooth transition for hover effect */
+}
+
+/* Add soft cornered square effect on hover */
+nav ul li a:hover {
+    border-radius: 10px;
+    /* Adjust the border radius for soft corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    /* Add shadow effect */
+}
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.healthbot-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+}
+
+/* FAQ Section Styles */
+.accordion-button {
+    background-color: #9381ff;
+    color: #eddea4;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: left;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #f7a072;
+}
+
+.accordion-body {
+    background-color: #f8f7ff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.navbar {
+    background-color: #9381ff;
+    margin-bottom: 20px;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #ffeedd !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+    position: relative;
+    padding: 10px 15px;
+}
+
+.navbar-nav .nav-item .nav-link::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 0;
+    height: 0;
+    background-color: #f7a072;
+    border-radius: 5px;
+    transition: width 0.3s, height 0.3s, left 0.3s, top 0.3s;
+    z-index: -1;
+}
+
+.navbar-nav .nav-item .nav-link:hover::before {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #eddea4 !important;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.section h2 {
+    color: #9381ff;
+}
+
+.healthbot-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #9381ff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.healthbot-btn:hover {
+    background-color: #b8b8ff;
+}
+
+/* Custom Modal Styles */
+#healthBotModal .modal-dialog {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    margin: 0;
+    width: 100%;
+    max-width: 400px;
+    max-height: 600px;
+    /* Increased the max-height for taller modal */
+}
+
+#healthBotModal .modal-content {
+    height: 600px;
+    border-radius: 10px;
+}
+
+#healthBotModal .modal-body {
+    padding: 0;
+}
+
+#healthBotModal iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+ #aboutUs .container {
+     text-align: center;
+ }
+
+ #aboutUs h2 {
+     margin-bottom: 30px;
+ }
+
+ #aboutUs p {
+     margin-bottom: 20px;
+ }
+
+ #aboutUs .stats-image {
+     max-width: 100%;
+     height: auto;
+     margin-top: 20px;
+ }
+
+ #testimonials .container {
+     text-align: center;
+ }
+
+ #testimonials h2 {
+     margin-bottom: 30px;
+ }
+
+ /* Lighter carousel control buttons */
+ .carousel-control-prev,
+ .carousel-control-next {
+     background: transparent;
+     border: none;
+     font-size: 2rem;
+     color: #007bff;
+     opacity: 0.5;
+     /* Reduce opacity to make arrows subtle */
+ }
+
+ .carousel-control-prev:hover,
+ .carousel-control-next:hover {
+     opacity: 1;
+     /* Increase opacity on hover */
+ }
+
+ .carousel-control-prev-icon,
+ .carousel-control-next-icon {
+     background-image: none;
+     /* Remove default arrow icons */
+ }
+
+ .carousel-control-prev:before {
+     content: '<';
+     /* Add custom content for previous arrow */
+ }
+
+ .carousel-control-next:before {
+     content: '>';
+     /* Add custom content for next arrow */
+ }
+ .navbar-brand {
+     display: flex;
+     align-items: center;
+ }
+
+ .company-icon img {
+     width: 40px;
+     /* Adjust the size of the icon as needed */
+     height: auto;
+     margin-right: 10px;
+     /* Add space between the icon and the company name */
+ }
+
+ .company-name {
+     font-size: 24px;
+     /* Adjust the font size for the company name */
+     font-weight: bold;
+     /* Make the company name bold */
+     color: ffddd2;
+     /* Choose a powerful and bright color */
+     /* Add additional styles as needed */
+ }
+
+ /* Add additional styles for the navbar and navbar items */
