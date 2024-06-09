@@ -10,6 +10,8 @@ Features Azure Health Bot Integration: Our website utilizes the Azure Health Bot
 
 Hosting: Azure Static Web Apps --- [https://witty-bay-0b5875810.5.azurestaticapps.net/](https://ambitious-sky-08f5aaf1e.5.azurestaticapps.net)
 
+Sourcing : Azure Blob Storage 
+
 Version Control: GitHub
 
 Bot Service: Azure Health Bot
@@ -20,14 +22,21 @@ Bot Service: Azure Health Bot
 ![Screenshot 2024-06-09 002359](https://github.com/Nithin-2413/frt1/assets/135258263/2afbbfa9-3526-4e1a-b87a-4126042903b3)
 ![Screenshot 2024-06-09 002412](https://github.com/Nithin-2413/frt1/assets/135258263/de1b8e59-effe-4a09-ab3d-d16d3c03a38f)
 
+
 click on the button on the bottom right to open the healthbot
+
 
 ![Screenshot 2024-06-09 002421](https://github.com/Nithin-2413/frt1/assets/135258263/98b6cb22-71a9-41f4-9c27-30efb9bc1f26)
 ![Screenshot 2024-06-09 002429](https://github.com/Nithin-2413/frt1/assets/135258263/73368c37-193b-4941-ac3b-5c69f3902ba0)
 ![Screenshot 2024-06-09 002449](https://github.com/Nithin-2413/frt1/assets/135258263/e31173c4-35d1-4bd4-9162-0376bfe9b645)
 ![Screenshot 2024-06-09 002457](https://github.com/Nithin-2413/frt1/assets/135258263/a0d57c77-1b68-421a-bc6f-debec7b65143)
 ![Screenshot 2024-06-09 002508](https://github.com/Nithin-2413/frt1/assets/135258263/b579247e-5c98-44a6-bb73-b7f4edc9a0df)
+
+
+
 choose appopriate options which describe your condition
+
+
 
 ![Screenshot 2024-06-09 002525](https://github.com/Nithin-2413/frt1/assets/135258263/17ab5975-db9a-48b7-9e8c-8044b7f4ad95)
 ![Screenshot 2024-06-09 002540](https://github.com/Nithin-2413/frt1/assets/135258263/c62e385a-88f0-466e-9886-c2126f28b3a1)
@@ -38,6 +47,8 @@ choose appopriate options which describe your condition
 
 
 i have utilized many azure services in the project like
+
+
 
 ![created a bot using Azure Health Bot Service](https://github.com/Nithin-2413/frt1/assets/135258263/9f084147-3501-4c34-b038-2586af9efae6)
 ![HEALTH BOT](https://github.com/Nithin-2413/frt1/assets/135258263/4f374a21-3720-4496-902a-37e5b340c679)
