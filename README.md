@@ -11,6 +11,7 @@ Features Azure Health Bot Integration: Our website utilizes the Azure Health Bot
 Hosting: Azure Static Web Apps --- [https://witty-bay-0b5875810.5.azurestaticapps.net/](https://ambitious-sky-08f5aaf1e.5.azurestaticapps.net)
 
 Sourcing : Azure Blob Storage 
+i have uploaded my project assets in azure blob storage containers and with the help of urls i have accessed them wherever i needed.
 
 Version Control: GitHub
 
